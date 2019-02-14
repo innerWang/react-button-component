@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage" : "http://innerWang.github.io/react-button-component/build",
+  "homepage" : "http://innerwang.github.io/react-button-component/build",
   "eslintConfig": {
     "extends": "react-app"
   },
